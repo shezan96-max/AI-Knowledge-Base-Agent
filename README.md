@@ -10,6 +10,15 @@ AI Powered chatbot that answers questions from company documents and captures le
 - Analytics dashboard
 - Intent detection
 
+## Chat Interface
+![Chat UI](assets/chat.png)
+
+## Upload Knowledge
+![Upload](assets/upload.png)
+
+## Analytics Dashboard
+![Analytics](assets/analytics.png)
+
 
 ## Tech Stack
 FastAPI
