@@ -1,0 +1,11 @@
+sentence-transformers
+faiss-cpu
+requests
+numpy
+fastapi
+uvicorn
+psycopg2
+email-validator
+dotenv
+python-multipart
+streamlit
